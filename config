@@ -1,0 +1,6 @@
+[config]
+dbhost = 'localhost'
+dbuser = 'root'
+dbpass = ''
+dbname = 'toast'
+DB_URI = 'mysql://' + dbuser + ':' + dbpass + '@' + dbhost + '/' +dbname
